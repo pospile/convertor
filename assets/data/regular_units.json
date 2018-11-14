@@ -1,0 +1,195 @@
+{
+  "Delka": [
+    {
+      "name": "Metr",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "Milimetr",
+      "conversion": 1000.0
+    },
+    {
+      "name": "Centimetr",
+      "conversion": 100.0
+    },
+    {
+      "name": "Kilometr",
+      "conversion": 0.001
+    },
+    {
+      "name": "Palec",
+      "conversion": 39.3701
+    },
+    {
+      "name": "Stopa",
+      "conversion": 3.28084
+    },
+    {
+      "name": "Yard",
+      "conversion": 1.09361
+    },
+    {
+      "name": "Míle",
+      "conversion": 0.000621371
+    }
+  ],
+  "Oblast": [
+    {
+      "name": "Metr čtvereční",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "Kilometr čtvereční",
+      "conversion": 0.000001
+    },
+    {
+      "name": "Čtvereční palec",
+      "conversion": 1550.0
+    },
+    {
+      "name": "Čtvereční stopa",
+      "conversion": 10.7639
+    },
+    {
+      "name": "Yard čtvereční",
+      "conversion": 1.19599
+    },
+    {
+      "name": "Akr",
+      "conversion": 0.000247105
+    },
+    {
+      "name": "Hektar",
+      "conversion": 0.0001
+    }
+  ],
+  "Objem": [
+    {
+      "name": "Kubický metr",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "Polévková lžíče",
+      "conversion": 67628.0
+    },
+    {
+      "name": "Čajová lžíce",
+      "conversion": 202884.0
+    },
+    {
+      "name": "Pohár",
+      "conversion": 3519.51
+    }
+  ],
+  "Hmotnost": [
+    {
+      "name": "Kilogram",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "Gram",
+      "conversion": 1000.0
+    },
+    {
+      "name": "Unce",
+      "conversion": 35.274
+    },
+    {
+      "name": "Libra",
+      "conversion": 2.20462
+    },
+    {
+      "name": "Metrická tuna",
+      "conversion": 0.001
+    }
+  ],
+  "Cas": [
+    {
+      "name": "Milisekunda",
+      "conversion": 1000.0
+    },
+    {
+      "name": "Sekunda",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "Minuta",
+      "conversion": 0.0166666666666667
+    },
+    {
+      "name": "Hodina",
+      "conversion": 0.0002777777777778
+    },
+    {
+      "name": "Den",
+      "conversion": 0.00001157407407
+    },
+    {
+      "name": "Týden",
+      "conversion": 0.000001653439153
+    }
+  ],
+  "IT": [
+    {
+      "name": "Megabyte",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "Megabit",
+      "conversion": 8.0
+    },
+    {
+      "name": "Mebibyte",
+      "conversion": 0.953674
+    },
+    {
+      "name": "Byte",
+      "conversion": 1000000.0
+    },
+    {
+      "name": "Kilobyte",
+      "conversion": 1000.0
+    },
+    {
+      "name": "Gigabyte",
+      "conversion": 0.001
+    },
+    {
+      "name": "Terabyte",
+      "conversion": 0.000001
+    },
+    {
+      "name": "Petabyte",
+      "conversion": 0.000000001
+    }
+  ],
+  "Energie": [
+    {
+      "name": "Joule",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "Kilojoule",
+      "conversion": 0.001
+    },
+    {
+      "name": "Gram kalorie",
+      "conversion": 0.239006
+    },
+    {
+      "name": "Kilokalorie (kalorie)",
+      "conversion": 0.000239006
+    },
+    {
+      "name": "Watt hodina",
+      "conversion": 0.000277778
+    }
+  ]
+}
